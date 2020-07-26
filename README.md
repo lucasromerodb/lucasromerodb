@@ -1,6 +1,6 @@
 ## Hi there, I'm Luke 👋
 
-Well, my real name is Lucas Romero Di Benedetto and I'm a UI Dev 👨‍💻 and Design lover ❤️. I really like programing and challenges, listen music and play my favorite videogames. I want to be a better dev every day, learning tech and soft skills. I like working with people and build cool products together as a team. I enjoy finding patterns and build systems based on it. I'm an organized person at work. I like to document my work to make the way more easy to others 🤗
+Well, my real name is Lucas Romero Di Benedetto and I'm a UI Dev 👨‍💻 and Design lover ❤️. I really like programing and challenges, listen music and play my favorite videogames. I want to be a better dev every day, learning tech and soft skills. I like working with people and build cool products together as a team. Love teaching my knowledge and motivate teams. I enjoy finding patterns and build systems based on it. I'm an organized person at work. I like to document my work to make the way more easy to others 🤗
 
 ### I'm currently working on
 
@@ -8,7 +8,7 @@ As a developer at Aerolab 🎈 i'm currently working on mobile apps and huge web
 
 ### I'm currently learning
 
-I try to learning every day things from internet, teammates, managers and friends. But, I want focusing my learning on performance, soft skills, and deep/core language behaviors. Maybe AI in a near future.
+I try to learning every day things from internet, teammates, managers and friends. But, I want focusing my learning on performance, soft skills, project architectures and deep/core language behaviors. Maybe AI in a near future.
 
 ### I worked at
 
