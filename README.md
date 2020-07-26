@@ -14,7 +14,7 @@ I try to learning every day things from internet, teammates, managers and friend
 
 #### Aerolab ❤️
 
-Currently working at Aero. A nice place to work with passionate people, devs, designers and PM. The culture here is amazing, I learned a lot of things about personal growth. I try to do my best when work as a team leader and I really enjoy it. I learned a lot about manage stuff with clients, understanding the business, manage teams, motivate teammates to reach the best, work with PMs and help they setting roadmaps, deadlines or tech support. Aero gave me the opportunity to be a mentor. What to say about that? I love it.
+Currently working at Aero. A nice place to work with passionate people, devs, designers and PM. The culture here is amazing, I learned a lot of things about personal and professional growth. I try to do my best when work as a team leader and I really enjoy it. I learned a lot about manage stuff with clients, understanding the business, manage teams, motivate teammates to reach the best, work with PMs and help they setting roadmaps, deadlines or tech support. Aero gave me the opportunity to be a mentor. What to say about that? I love it and I love my mentees, they are rough gems.
 Talking about tech challenges, I learned the best from the best people in Aero. Here we work with modern tech. And of course I love working side to side with designers.
 
 #### Globant 🏢
