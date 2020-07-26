@@ -10,7 +10,7 @@ As a developer at Aerolab 🎈 i'm currently working on mobile apps and huge web
 
 I try to learning every day things from internet, teammates, managers and friends. But, I want focusing my learning on performance, soft skills, and deep/core language behaviors. Maybe AI in a near future.
 
-### I worked on ...
+### I worked at ...
 
 #### Aerolab
 
@@ -24,3 +24,13 @@ I was work here for about 1 year. It was the "corpo experience". I think any dev
 #### 3818
 
 The place that saw me grow. I worked here for about 3 years, all was new for me, joining the team with 0 skills. I was understanding the beauty of programming. I learned a lot of things about UI, client briefs, project management things and of course be member of a great small team. With 3 years of work I learned more than college classes.
+
+### My learning path
+
+Well I used to be an industrial designer some time ago. But I loved the digital world and luckily I found my passion in programming. Maybe what I liked was to build products, now I have the opportunity to be digital and be in many places at the same time instantly.
+
+* Self taught developer: Acamica, Udemy, Frontend Masters, PluralSight, Books and _the entirely web_ `forever`
+* Software Development Tech at UADE `2019-2020`
+* Multimedial Design at Da Vinci `2013-2015`
+* Industrial Design at Universidad de Palermo `2009-2013`
+
