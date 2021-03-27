@@ -21,8 +21,6 @@ Currently working at Aero. A nice place to work with passionate people, devs, de
 - 🏢 [Globant](https://www.globant.com/) - _It was the "corpo experience"_ (1y)
 - 👶 3818 - _The place where I learned the basics_ (3y)
 
----
-
 ## What about my hobbies?
 - Videogames: [@luke.and.gaming](https://www.instagram.com/luke.and.gaming/) on Instagram
 - 3D Art & drawings: [@luke.and.creations](https://www.instagram.com/luke.and.creations/) on Instagram
