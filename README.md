@@ -1,20 +1,20 @@
 ## Hi there, I'm Luke 👋
 
-My real name is Lucas Romero Di Benedetto *and I will broke your UI with my name*. I'm Developer 👨‍💻 and Design lover ❤️. I really like programing and challenges, listen music, drawing and play my favorite videogames. Every day I want to be a better dev, learning tech and soft skills. I like working with people and build cool products together as a team. Love teaching my knowledge and motivate teams. I enjoy finding patterns and build systems based on it. I'm an organized person at work. I like to document my work to make the way more easy to others 🤗
+Well my real name is Lucas Romero Di Benedetto but... just call me Luke. In my past I was an industrial designer but nowadays I make money working as a developer and I love it. My other two passions are making some 3D Art or drawings and play videogames. Love exchange knowledge and experience with oters as a way to motivate teams. Write documentation is important to me that's why I feel responsible to write it and make the way more easy to others every time I have the opportunity 🤗
 
 ### Currently working on
 
-As a developer at Aerolab 🎈 i'm currently working on mobile apps and huge websites for fintech and banks. I really enjoy team challenges.
+As a developer at Aerolab 🎈 I'm currently working on mobile apps and huge websites with an scalable component system. Also I'm a member of the mentoring program and process improvements for te whole developer team. As a circumstancial task currently I'm participating on the dev hiring process with my manager.
 
 ### Learning
 
-I try to learning every day things from internet, teammates, managers and friends. But, I want focusing my learning on performance, soft skills, project architectures and deep/core language behaviors. Maybe AI in a future.
+Internet are massive, there a lot of things to learn. Of course also I learn every day from my teammates, managers and friends, but I want focusing my learning on performance, soft skills, project architectures and deep/core language behaviors. Maybe AI in a future.
 
-### I worked at
+### My career path
 
 #### Aerolab ❤️
 
-Currently working at Aero. A nice place to work with passionate people, devs, designers and PM. The culture here is amazing, I learned a lot of things about personal and professional growth. I try to do my best when work as a team leader and I really enjoy it. I learned a lot about manage stuff with clients, understanding the business, manage teams, motivate teammates to reach the best, work with PMs and help they setting roadmaps, deadlines or tech support. Aero gave me the opportunity to be a mentor. What to say about that? I love it and I love my mentees, they are rough gems ✨. Talking about tech challenges, I learned the best from the best people in Aero, they always are ready to help. Here we work with modern tech. And of course I love working side to side with designers.
+Currently working at Aero. A nice place to work with passionate people, devs, designers and PMs. The culture here is amazing, I learned a lot of things about personal and professional growth. I try to do my best when work as a team leader and I really enjoy it. I learned a lot about manage stuff with clients, understanding the business, manage teams, motivate teammates to reach the best, work with PMs and help they setting roadmaps, deadlines or tech support. Aero gave me the opportunity to be a mentor. What to say about that? I love it and I love my mentees, they are rough gems ✨. Talking about tech challenges, I learned a lot from the first day ir Aerolab, they are always ready to help. Here we work with modern tech. And of course I love working side to side with designers.
 
 #### Globant 🏢
 
@@ -29,7 +29,7 @@ The place that saw me grow. I worked here for about 3 years, all was new for me,
 Well I used to be an industrial designer some time ago. But I loved the digital world and luckily I found my passion in programming. Maybe what I liked was to build products, now I have the opportunity to be digital and be in many places at the same time instantly.
 
 * Self taught developer: Acamica, Udemy, Frontend Masters, PluralSight, Books and _the entirely web_ `forever`
-* Software Development at UADE `2019-2020`
+* Software Engineering at UADE `2019-2020`
 * Multimedial Design at Da Vinci `2013-2015`
 * Industrial Design at Universidad de Palermo `2009-2013`
 
