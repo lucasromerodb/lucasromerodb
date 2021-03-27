@@ -6,7 +6,7 @@ My real name is Lucas Romero Di Benedetto but just call me Luke. Besides program
 
 ## My career path
 
-### ❤️ [Aerolab](https://aerolab.co/) (2019 - Today)
+#### ❤️ [Aerolab](https://aerolab.co/) (2019 - Today)
 
 Currently working at Aero. A nice place to work with passionate people, devs, designers and PMs. The culture here is amazing, I learned a lot of things about personal and professional growth. I try to do my best when work as a team leader and I really enjoy it. I learned a lot about manage stuff with clients, understanding the business, manage teams, motivate teammates to reach the best, work with PMs and help they setting roadmaps, deadlines or tech support. Aero gave me the opportunity to be a mentor. What to say about that? I love it and I love my mentees, they are rough gems ✨. Talking about tech challenges, I learned a lot from the first day ir Aerolab, they are always ready to help. Here we work with modern tech. And of course I love working side to side with designers.
 
@@ -15,8 +15,8 @@ Currently working at Aero. A nice place to work with passionate people, devs, de
 - I'm a member of mentorship program
 - I'm participating on the dev hiring process with my manager
 
-- 🏢 [Globant](https://www.globant.com/) - _It was the "corpo experience"_ (1y)
-- 👶 3818 - _The place where I learned the basics_ (3y)
+#### 🏢 [Globant](https://www.globant.com/) - _It was the "corpo experience"_ (1y)
+#### 👶 3818 - _The place where I learned the basics_ (3y)
 
 ## What about my hobbies?
 - Videogames: [@luke.and.gaming](https://www.instagram.com/luke.and.gaming/) on Instagram
