@@ -2,7 +2,7 @@
 
 > I used to be an industrial designer some time ago. But I loved the digital world and luckily I found my passion in programming. Maybe what I liked was to build products, now I have the opportunity to be digital and be in many places at the same time instantly.
 
-My real name is Lucas Romero Di Benedetto but just call me Luke. Besides programming, my other two passions are making 3D Art or drawings and play videogames (I'm a The Legend of Zelda fan). What about my job? I love exchange knowledge and experience with oters and find a way to motivate teams. That's why I'm a member of a mentorship program at Aerolab. Improve development process are really important for me, combining this interests and skills I feel responsible to write documentations, proposing conventions or setting code-quality recomendations and make the way more easy to others every time I have the opportunity 🤗
+My real name is Lucas Romero Di Benedetto but just call me Luke. Besides programming, my other two passions are making 3D Art or drawings and play videogames (I'm a The Legend of Zelda fan). What about my job? I love to exchange knowledge and experience with oters and find a way to motivate teams. That's why I'm a member of a mentorship program at Aerolab. Improve development process are really important for me, combining this interests and skills I feel responsible to write documentations, proposing conventions or setting code-quality recomendations and make the way more easy to others every time I have the opportunity 🤗
 
 ### Currently working on
 
