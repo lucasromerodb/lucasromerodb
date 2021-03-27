@@ -1,6 +1,6 @@
 ## Hi there, I'm Luke 👋
 
-Well my real name is Lucas Romero Di Benedetto but... just call me Luke. In my past I was an industrial designer but nowadays I make money working as a developer and I love it. My other two passions are making some 3D Art or drawings and play videogames. Love exchange knowledge and experience with oters as a way to motivate teams. Write documentation is important to me that's why I feel responsible to write it and make the way more easy to others every time I have the opportunity 🤗
+Well my real name is Lucas Romero Di Benedetto but... just call me Luke. In my past I was an industrial designer but nowadays I make money working as a developer and I love it. My other two passions are making some 3D Art or drawings and play videogames (I'm a The Legend of Zelda fan). What about my job, I love exchange knowledge and experience with oters and find a way to motivate teams. For me write documentation is important, that's why I feel responsible to write it and make the way more easy to others every time I have the opportunity 🤗
 
 ### Currently working on
 
