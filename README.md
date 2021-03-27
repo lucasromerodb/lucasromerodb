@@ -19,5 +19,6 @@ Currently working at Aero. A nice place to work with passionate people, devs, de
 #### 👶 3818 - _The place where I learned the basics_ (3y)
 
 ## What about my hobbies?
+- Programming: [@lucasromerodb](https://dev.to/lucasromerodb) on Dev.to
 - Videogames: [@luke.and.gaming](https://www.instagram.com/luke.and.gaming/) on Instagram
 - 3D Art & drawings: [@luke.and.creations](https://www.instagram.com/luke.and.creations/) on Instagram
