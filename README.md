@@ -22,3 +22,7 @@ Currently working at Aero. A nice place to work with passionate people, devs, de
 - Programming: [@lucasromerodb](https://dev.to/lucasromerodb) on Dev.to
 - Videogames: [@luke.and.gaming](https://www.instagram.com/luke.and.gaming/) on Instagram
 - 3D Art & drawings: [@luke.and.art](https://www.instagram.com/luke.and.art/) on Instagram
+
+---
+
+![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
