@@ -20,7 +20,7 @@ Currently working at Aero. A nice place to work with passionate people, devs, de
 
 ## What about my hobbies?
 - Programming: [@lucasromerodb](https://dev.to/lucasromerodb) on Dev.to
-- Videogames: [@lukekix_gg](https://www.instagram.com/luke.and.gaming/) on Instagram
+- Videogames: [@lukekix_gg](https://www.instagram.com/lukekix_gg/) on Instagram
 - 3D Art & drawings: [@luke.and.art](https://www.instagram.com/luke.and.art/) on Instagram
 
 ---
