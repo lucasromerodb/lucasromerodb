@@ -33,8 +33,8 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 - [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - +3.5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
 
 ### More about me:
-- Programming: [@lucasromerodb](https://dev.to/lucasromerodb) on Dev.to
-- [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D CG Art & Game Dev on Instagram1
+- [@lucasromerodb](https://dev.to/lucasromerodb) on Dev.to
+- [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D CG Art & Game Dev on Instagram
 
 ---
 
