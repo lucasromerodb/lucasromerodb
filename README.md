@@ -32,7 +32,7 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 - [Available on Game Pass Bot](https://top.gg/bot/1099038010516963469) - Discord bot that tell you if a Steam, Epic or GOG game is on Xbox Game Pass when you paste a link or use bot commands
 - [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - +3.5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
 
-### More about me:
+### More about me
 - [@lucasromerodb](https://x.com/lucasromerodb) professional profile on X
 - [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D & CG Art + Game Dev on Instagram
 
