@@ -6,7 +6,7 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 
 ### Currently working at [Aerolab](https://aerolab.co/) (2019 - Today)
 
-- Managing client relationships, aligning business goals, and providing technical support
+- Managing client relationships, aligning business goals, and providing technical support on projects
 - Supporting teams in project planning and contributing to technical and product decision-making
 - Establishing best practices to ensure quality standards across the engineering team
 - Ensuring consistent outcomes by following established processes
@@ -22,8 +22,9 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 > Tech stack: React, NextJS, React Native, Expo, NodeJS, Express, JS testing frameworks, Tailwind, CSS, Styled Components, RN Stylesheets, GitHub and GitLab Actions, Bitrise, Docker, SQL and not-SQL DBs, CMS (Sanity, Contentful, Strapi, Prismic)
 
 ### Previously worked at
-- Learned development processes and team structures at [Globant](https://www.globant.com/) - (1y)
-- Starging my development career at 👶 3818 Digital Agency - (3y)
+
+- [Globant](https://www.globant.com/) (1y) - I have learned about development processes and team structure.
+- 3818 Digital Agency (3y) - Starging my development career
 
 ### Side Projects
 
