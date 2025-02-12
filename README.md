@@ -1,6 +1,9 @@
-# Hi there, I'm Luke 👋 
+# Hi there, I'm Luke 😃
 
-Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
+> [!NOTE]
+> Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
+
+I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies. Ex Industrial Designer, CG Artist and Game Dev enthusiast.
 
 ## My career path
 
@@ -18,12 +21,13 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 - Overseeing CI infrastructure to streamline deployment of web and native projects
 - Keeping staff members informed about area status through regular L10 sessions
 
+> [!NOTE]
 > Tech stack: React, NextJS, React Native, Expo, NodeJS, Express, JS testing frameworks, Tailwind, CSS, Styled Components, RN Stylesheets, GitHub and GitLab Actions, Bitrise, Docker, SQL and not-SQL DBs, CMS (Sanity, Contentful, Strapi, Prismic)
 
 ### Previously worked at
 
-- [Globant](https://www.globant.com/) (1y) - I have learned about development processes and team structure.
-- 3818 Digital Agency (3y) - Starging my development career
+- [Globant](https://www.globant.com/) (1y) - I've learned about development processes and team structure.
+- 3818 Digital Agency (3y) - Started my development career here.
 
 ### Side Projects
 
