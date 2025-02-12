@@ -5,7 +5,7 @@
 
 I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies. Ex Industrial Designer, CG Artist and Game Dev enthusiast.
 
-## My career path
+## My engineering career path
 
 ### Currently working at [Aerolab](https://aerolab.co/) (2019 - Today)
 
@@ -28,6 +28,11 @@ I’ve been working at Aerolab since 2019 , starting as a developer, so I know t
 
 - [Globant](https://www.globant.com/) (1y) - I've learned about development processes and team structure.
 - 3818 Digital Agency (3y) - Started my development career here.
+
+### I studied
+- Software Engineering
+- Multimedial Design
+- Industrial Design
 
 ### Side Projects
 
