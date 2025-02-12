@@ -6,8 +6,7 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 
 ### Currently working at [Aerolab](https://aerolab.co/) (2019 - Today)
 
-- Managing client relationships, aligning business goals, and providing technical support on projects
-- Supporting teams in project planning and contributing to technical and product decision-making
+- Supporting teams in project plannings and contributing to technical and product decision-making
 - Establishing best practices to ensure quality standards across the engineering team
 - Ensuring consistent outcomes by following established processes
 - Estimating project timelines and requirements across diverse industries and technologies
@@ -28,7 +27,7 @@ Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial De
 
 ### Side Projects
 
-- [impuestito.org](https://impuestito.org) - App to calculate taxes in Argentina. 50K followers on X and 200K unique users.
+- [impuestito.org](https://impuestito.org) - App to calculate taxes in Argentina. 50K followers on X and +300K unique users.
 - [Available on Game Pass Extension](https://chromewebstore.google.com/detail/available-on-game-pass/ogkbpenenponleoakeomjjddhjbgdadc) - Browser extension that shows a Xbox Game Pass banner on a game store page on Steam
 - [Available on Game Pass Bot](https://top.gg/bot/1099038010516963469) - Discord bot that tell you if a Steam, Epic or GOG game is on Xbox Game Pass when you paste a link or use bot commands
 - [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - 3.5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
