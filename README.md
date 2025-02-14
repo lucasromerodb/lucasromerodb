@@ -3,7 +3,7 @@
 > [!NOTE]
 > Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
 
-I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies. Ex Industrial Designer, CG Artist and Game Dev enthusiast.
+I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
 
 ## My engineering career path
 
