@@ -5,6 +5,8 @@
 
 Based in Buenos Aires. I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
 
+![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
+
 ## My engineering career path
 
 ### Currently working at [Aerolab](https://aerolab.co/) (2019 - Today)
@@ -45,6 +47,6 @@ Based in Buenos Aires. I’ve been working at Aerolab since 2019 , starting as a
 - [@lucasromerodb](https://x.com/lucasromerodb) professional profile on X
 - [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D & CG Art + Game Dev on Instagram
 
----
+. 
 
-![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
+(づ￣ 3￣)づ see ya.
