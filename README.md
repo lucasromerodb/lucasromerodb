@@ -3,7 +3,7 @@
 > [!NOTE]
 > Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
 
-Based in Buenos Aires. I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
+Based in Buenos Aires and +10 years of experience in development. I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
 
 ![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
 ![GitHub User's stars](https://img.shields.io/github/stars/lucasromerodb)
@@ -40,14 +40,15 @@ Based in Buenos Aires. I’ve been working at Aerolab since 2019 , starting as a
 
 ### Side Projects
 
-- [Available on Game Pass Extension](https://chromewebstore.google.com/detail/available-on-game-pass/ogkbpenenponleoakeomjjddhjbgdadc) - Browser extension that shows a Xbox Game Pass banner on a game store page on Steam
-- [Available on Game Pass Bot](https://top.gg/bot/1099038010516963469) - Discord bot that tell you if a Steam, Epic or GOG game is on Xbox Game Pass when you paste a link or use bot commands
-- [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - 3.5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
+- [impuestito.org](https://impuestito.org) - Web-app to calculate taxes in Argentina. ~50K followers on X and +300K unique users.
+- impuestito browser extension for [Chrome](https://chromewebstore.google.com/detail/impuestito-precio-final-j/kodbfkngjgckpmipedoomkdhhihioaio) and [Firefox](https://addons.mozilla.org/es-AR/firefox/addon/impuestito/) - Calculate taxes for gaming stores in Argentina.
+- [Available on Game Pass browser extension](https://chromewebstore.google.com/detail/available-on-game-pass/ogkbpenenponleoakeomjjddhjbgdadc) - Shows a Xbox Game Pass banner on a game store page on Steam.
+- [Available on Game Pass Discord bot](https://top.gg/bot/1099038010516963469) - Tells you if a Steam, Epic or GOG game is on Xbox Game Pass when you paste a link or use bot commands.
+- [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - ~5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
 
 ### More about me
+
 - [@lucasromerodb](https://x.com/lucasromerodb) professional profile on X
 - [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D & CG Art + Game Dev on Instagram
 
-. 
-
-(づ￣ 3￣)づ see ya.
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ see ya.
