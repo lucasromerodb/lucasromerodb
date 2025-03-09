@@ -43,7 +43,7 @@ Based in Buenos Aires and +10 years of experience in development. I’ve been wo
 - [impuestito.org](https://impuestito.org) - Web-app to calculate taxes in Argentina. ~50K followers on X and +300K unique users.
 - impuestito browser extension for [Chrome](https://chromewebstore.google.com/detail/impuestito-precio-final-j/kodbfkngjgckpmipedoomkdhhihioaio) and [Firefox](https://addons.mozilla.org/es-AR/firefox/addon/impuestito/) - Calculate taxes for gaming stores in Argentina.
 - [Available on Game Pass browser extension](https://chromewebstore.google.com/detail/available-on-game-pass/ogkbpenenponleoakeomjjddhjbgdadc) - Shows a Xbox Game Pass banner on a game store page on Steam.
-- [Available on Game Pass Discord bot](https://top.gg/bot/1099038010516963469) - Tells you if a Steam, Epic or GOG game is on Xbox Game Pass when you paste a link or use bot commands.
+- [Available on Game Pass Discord bot](https://top.gg/bot/1099038010516963469) - Tells you if a Steam game is on Xbox Game Pass when you paste a link or use bot commands.
 - [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - ~5K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
 
 ### More about me
