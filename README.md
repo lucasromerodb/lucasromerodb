@@ -6,6 +6,8 @@
 Based in Buenos Aires. I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
 
 ![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
+![GitHub User's stars](https://img.shields.io/github/stars/lucasromerodb)
+
 
 ## My engineering career path
 
