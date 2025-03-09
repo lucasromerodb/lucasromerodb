@@ -1,4 +1,4 @@
-# Hi there, I'm Luke 😃
+# Hi there, I'm Luke `👁️👄👁️`
 
 > [!NOTE]
 > Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
