@@ -3,7 +3,7 @@
 > [!NOTE]
 > Frontend Engineering at [Profound](https://www.tryprofound.com/), ex Director of Engineering at [Aerolab](https://aerolab.co), ex Industrial Designer, CG Artist and Game Dev enthusiast
 
-Based in Buenos Aires, I bring over 10 years of experience in software development. After several years as a Frontend Engineer, I transitioned into leadership roles, including Director of Engineering. Recently, I’ve returned to my technical roots, now focused on hands-on development at Profound, where I’m committed to improving the product and driving innovation.
+Based in Buenos Aires, I bring over 10 years of experience in software development and leadership. After several years as a Frontend Engineer, I transitioned into leadership roles, including Director of Engineering. Recently, I’ve returned to my technical roots, now focused on hands-on development at Profound, where I’m committed to improving the product and driving innovation.
 
 > Tech stack: React, NextJS, React Native, Expo, NodeJS, Express, JS testing frameworks, Tailwind, CSS, Styled Components, RN Stylesheets, GitHub and GitLab Actions, Bitrise, Docker, SQL and not-SQL DBs, CMS (Sanity, Contentful, Strapi, Prismic)
 
