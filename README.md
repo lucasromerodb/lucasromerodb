@@ -1,9 +1,11 @@
 # Hi there, I'm Luke
 
 > [!NOTE]
-> Engineering Director at [@aerolab](https://github.com/aerolab), ex Industrial Designer, CG Artist and Game Dev enthusiast
+> Frontend Engineering at [Profound](https://www.tryprofound.com/), ex Director of Engineering at [Aerolab](https://aerolab.co), ex Industrial Designer, CG Artist and Game Dev enthusiast
 
-Based in Buenos Aires and +10 years of experience in development. I’ve been working at Aerolab since 2019 , starting as a developer, so I know the company inside out. My role now since a few years ago is to supervise the development process and ensure the quality of our deliverables. I also help teams to define architecture, techologies, product definitions and methodologies.
+Based in Buenos Aires, I bring over 10 years of experience in software development. After several years as a Frontend Engineer, I transitioned into leadership roles, including Director of Engineering. Recently, I’ve returned to my technical roots, now focused on hands-on development at Profound, where I’m committed to improving the product and driving innovation.
+
+> Tech stack: React, NextJS, React Native, Expo, NodeJS, Express, JS testing frameworks, Tailwind, CSS, Styled Components, RN Stylesheets, GitHub and GitLab Actions, Bitrise, Docker, SQL and not-SQL DBs, CMS (Sanity, Contentful, Strapi, Prismic)
 
 ![](https://komarev.com/ghpvc/?username=lucasromerodb&color=brightgreen)
 ![GitHub User's stars](https://img.shields.io/github/stars/lucasromerodb)
@@ -11,25 +13,11 @@ Based in Buenos Aires and +10 years of experience in development. I’ve been wo
 
 ## My engineering career path
 
-### Currently working at [Aerolab](https://aerolab.co/) (2019 - Today)
-
-- Supporting teams in project plannings and contributing to technical and product decision-making
-- Establishing best practices to ensure quality standards across the engineering team
-- Ensuring consistent outcomes by following established processes
-- Estimating project timelines and requirements across diverse industries and technologies
-- Documenting engineering processes to support team and organization with certifications
-- Supporting developers in advancing their career goals within the company
-- Keeping the engineering team informed about new technologies and industry news
-- Recruiting skilled engineers to strengthen the engineering team
-- Managing Apple Store Connect and Google Play Console accounts for app deployment 
-- Overseeing CI infrastructure to streamline deployment of web and native projects
-- Keeping staff members informed about area status through regular L10 sessions
-
-> [!NOTE]
-> Tech stack: React, NextJS, React Native, Expo, NodeJS, Express, JS testing frameworks, Tailwind, CSS, Styled Components, RN Stylesheets, GitHub and GitLab Actions, Bitrise, Docker, SQL and not-SQL DBs, CMS (Sanity, Contentful, Strapi, Prismic)
+### Currently working at [Profound](https://www.tryprofound.com/) (2025 - today)
+- Frontend Engineer, committed to improving the product and driving innovation
 
 ### Previously worked at
-
+- [Aerolab](https://aerolab.co) (6y) - Worked at Aerolab since 2019 to 2025, starting as a frontend developer, so I knew the company inside out. My role was to supervise the development process and ensure the quality of our deliverables. I also helped teams to define architecture, techologies, product definitions and methodologies.
 - [Globant](https://www.globant.com/) (1y) - I've learned about development processes and team structure.
 - 3818 Digital Agency (3y) - Started my development career here.
 
@@ -51,4 +39,4 @@ Based in Buenos Aires and +10 years of experience in development. I’ve been wo
 - [@lucasromerodb](https://x.com/lucasromerodb) professional profile on X
 - [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D & CG Art + Game Dev on Instagram
 
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ see ya.
+(ﾉ◕ヮ◕)ﾉ
