@@ -29,11 +29,11 @@ Based in Buenos Aires, I bring over 10 years of experience in software developme
 
 ### Side Projects
 
-- [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - ~8K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
+- [Invisible Stand Controller for Xbox](https://makerworld.com/en/models/952139#profileId-920321) - ~20K prints. This is a 3D print model for Xbox controller stand, is minimal and nearly invisible, keeping the focus on your controller, not the stand.
 
 ### More about me
 
-- [@lucasromerodb](https://x.com/lucasromerodb) developer profile on X
+- [@lucasromerodb](https://x.com/lucasromerodb) profile on X
 - [@luke.and.art](https://www.instagram.com/luke.and.art/) 3D & CG Art + Game Dev on Instagram
 
-(ﾉ◕ヮ◕)ﾉ
+(ﾉ◕ヮ◕)ﾉ︵ ┻━┻
