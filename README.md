@@ -15,6 +15,7 @@ Based in Buenos Aires, I bring over 10 years of experience in software developme
 
 #### Currently working at [Profound](https://www.tryprofound.com/) (2025 - today)
 - Frontend Engineer, committed to improving the product and driving innovation
+- Working on Content Generation and AI Agents workflows
 
 #### Previously worked at
 - [Aerolab](https://aerolab.co) (6y) - Worked at Aerolab since 2019 to 2025, starting as a frontend developer, so I knew the company inside out. My role was to supervise the development process and ensure the quality of our deliverables. I also helped teams to define architecture, techologies, product definitions and methodologies.
