@@ -13,7 +13,7 @@ Based in Buenos Aires, I bring over 10 years of experience in software developme
 
 ## My engineering career path
 
-### Currently working at [Profound](https://www.tryprofound.com/) (2025 - today)
+#### Currently working at [Profound](https://www.tryprofound.com/) (2025 - today)
 - Frontend Engineer, committed to improving the product and driving innovation
 
 #### Previously worked at
