@@ -11,7 +11,7 @@ Based in Buenos Aires, I bring over 10 years of experience in software developme
 ![GitHub User's stars](https://img.shields.io/github/stars/lucasromerodb)
 
 
-## My engineering career path
+## Experience
 
 #### Currently working at [Profound](https://www.tryprofound.com/) (2025 - today)
 - Frontend Engineer, committed to improving the product and driving innovation
